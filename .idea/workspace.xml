@@ -5,27 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6f883a7e-9c72-4d34-bf22-d1d915d6290a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.prettierrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AddContact/AddContact.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AddContact/AddContact.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AddContact/AddContact.styled.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/AddContact/AddContact.styled.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.styled.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.styled.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactList/ContactList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactList/ContactList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactListIthem/ContactListItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactListIthem/ContactListItem.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactListIthem/ContactListItem.styled.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactListIthem/ContactListItem.styled.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Filter/Filter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Filter/Filter.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Filter/Filter.styled.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Filter/Filter.styled.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Redux/contactsSlice.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Redux/contactsSlice.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Redux/filterSlice.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Redux/filterSlice.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Redux/operations.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Redux/operations.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Redux/selectors.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Redux/selectors.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Redux/store.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Redux/store.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/old_App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/old_App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1699021298370</updated>
-      <workItem from="1699021301736" duration="4780000" />
+      <workItem from="1699021301736" duration="4993000" />
     </task>
     <servers />
   </component>
